@@ -20,7 +20,7 @@ public class test {
 	    public static int fina1[] ; 
 	    public static String queryBridgeWords(String word1, String word2)
 		{
-                    
+                    System.out.println("本次实验的修改");
 		    int i=0,flag=0,j=0,bridge;
 		    String mystring1;
 			fina1=new int[99];
